@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "621021097372",
+    "firebase_url": "https://fir-zulmi-d4f0d.firebaseio.com",
+    "project_id": "fir-zulmi-d4f0d",
+    "storage_bucket": "fir-zulmi-d4f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621021097372:android:dbc27a80087277c9",
+        "android_client_info": {
+          "package_name": "com.zulmipc.firebasezulmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621021097372-hrsljnoisbhdnn6hsoi89u50q06kd2kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyh6ckLoVo6Yo2WNO3Lx4tYpV-jchSJN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

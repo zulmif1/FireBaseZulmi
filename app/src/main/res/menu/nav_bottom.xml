@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnKontak"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="Kontak" />
+    <item
+        android:id="@+id/mnPesan"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="Pesan" />
+
+    <item
+        android:id="@+id/mnProfile"
+        android:icon="@drawable/ic_face_black_24dp"
+        android:title="Profile" />
+</menu>
